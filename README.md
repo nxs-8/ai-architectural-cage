@@ -33,7 +33,7 @@ _Note: Project names and specific domain details have been abstracted to protect
 9. [Constant Grooming and Taming Regressions: The Architectural Cage in Action](#9-constant-grooming-and-taming-regressions-architectural-cage-in-action)
 10. [The "Centaur" Team: A New Anthropology of Development](#10-the-centaur-team-a-new-anthropology-of-development)
 11. [The Price of Speed and Unexplored Territories: A Retrospective](#11-the-price-of-speed-and-unexplored-territories-a-retrospective)
-[Epilogue: The Bottleneck Shift and the Tech Race](#epilogue-the-bottleneck-shift-and-the-tech-race)
+12. [Epilogue: The Bottleneck Shift and the Tech Race](#epilogue-the-bottleneck-shift-and-the-tech-race)
 
 ## 1. The Scale of the Disaster: 100+ Screens, 200 Hours, and Zero Budget for Errors
 
